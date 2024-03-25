@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://curly-telegram-7v9wx55jj4gfww59-1234.app.github.dev/",
+  "homepage": "https://shristi209.github.io/project-js/",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
